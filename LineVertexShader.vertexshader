@@ -1,0 +1,12 @@
+#version 330 core
+
+// Input vertex data, different for all executions of this shader.
+layout(location = 0) in vec2 vertexPosition_modelspace;
+
+uniform mat4 transform;
+
+void main(){
+
+    gl_Position = transform * vec4(vertexPosition_modelspace, 0.0f, 1.0f);
+
+}

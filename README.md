@@ -1,5 +1,5 @@
 # Atlasi
-Drawing map with OpenGL.
+Drawing maps with OpenGL.
 
 ## how to run
 after installing many libraries

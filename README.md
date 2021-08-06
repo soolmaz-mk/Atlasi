@@ -1,4 +1,3 @@
-# Atlasi
 Drawing maps with OpenGL.
 
 ## how to run
@@ -14,6 +13,12 @@ g++ Main.cpp -Wfatal-errors -o atlas "common/shader.cpp"  -lopengl32 -lglew32 -l
 
 
 
+**translated:**
+
+![translated (2)](https://user-images.githubusercontent.com/37975269/90677837-2e0de380-e273-11ea-9394-425d5188d709.png)
+
+
+
 **Zoomed out version:**
 
 ![zoomedOut (2)](https://user-images.githubusercontent.com/37975269/90671853-84c2ef80-e26a-11ea-9029-65009bf9392a.png)
@@ -25,10 +30,6 @@ g++ Main.cpp -Wfatal-errors -o atlas "common/shader.cpp"  -lopengl32 -lglew32 -l
 ![xAxisRotated (2)](https://user-images.githubusercontent.com/37975269/90671686-4a595280-e26a-11ea-99c9-1a64643f1e3c.png)
 
 
-
-**translated:**
-
-![translated (2)](https://user-images.githubusercontent.com/37975269/90677837-2e0de380-e273-11ea-9394-425d5188d709.png)
 
 
 

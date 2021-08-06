@@ -13,6 +13,7 @@ g++ Main.cpp -Wfatal-errors -o atlas "common/shader.cpp"  -lopengl32 -lglew32 -l
 
 
 
+
 **Zoomed out version:**
 
 ![zoomedOut (2)](https://user-images.githubusercontent.com/37975269/90671853-84c2ef80-e26a-11ea-9029-65009bf9392a.png)
